@@ -9,4 +9,4 @@ DEVELOP DEVELOP DEVELOP
 
 MAIN MAIN MAIN
 
-devlop develop
+main main
